@@ -8,7 +8,7 @@
 </head>
 <body>
     @if($isAuth)
-    вы авторизованы
+    вы авториh6t5h5зованыkjihhuibyhnb mhnj
     @endif
 </body>
 </html>
